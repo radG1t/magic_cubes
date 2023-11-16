@@ -5,4 +5,4 @@
 ![](./magic_cubes.png)
 
 
-A simple Flutter project, usable in your other projects as a feature or progress bar, etc..
+A simple Flutter project, usable in your other projects as a widget, idk something like a progress bar, etc...
